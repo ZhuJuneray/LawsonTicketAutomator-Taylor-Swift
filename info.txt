@@ -1,21 +1,21 @@
-Email Address：*e.g. abc@lawsonticket.jp
-zhujunrui@yahoo.com
-Telephone Number(include country code)：*Numerical characters (without hyphens) (e.g. 81312345678)
-8613011091160
+Email Address:*e.g. abc@lawsonticket.jp
+abc@lawsonticket.jp
+Telephone Number(include country code):*Numerical characters (without hyphens) (e.g. 81312345678)
+81312345678
 First Name e.g. John (Max 9 characters)
-Junrui
+John
 Last Name e.g. Smith (Max 10 characters)
-Zhu
+Smith
 Password for My Page login *Alphanumerical characters, 4 digits (E.g. A1B2)
-Zjun
+A1B2
 Please enter the country code of your smart phone. (The phone you will receive the tickets on.)
 86
-Please enter the rest of your smartphone's phone number excluding the country code. (The phone you will receive the tickets on.）
-13011091160
-Please enter the name of the country your smart phone is used in. (The phone you will receive the tickets on.)※This is to confirm your device information.
+Please enter the rest of your smartphone's phone number excluding the country code. (The phone you will receive the tickets on.)
+81312345678
+Please enter the name of the country your smart phone is used in. (The phone you will receive the tickets on.)*This is to confirm your device information.
 China
 Card Number *Numerical characters (e.g. 1234123412341234)
-4505470036264395
+1234123412341234
 Expiry Date
 10/30
 Security Code Enter the three or four-digit number printed on the back of the card.
